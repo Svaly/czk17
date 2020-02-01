@@ -6,7 +6,6 @@ import { FilterModel } from './models/filter-model';
 @Component({
   selector: 'app-exchange-rates',
   templateUrl: './exchange-rates.component.html',
-  styleUrls: ['./exchange-rates.component.scss']
 })
 export class ExchangeRatesComponent implements OnInit {
 
